@@ -1119,6 +1119,7 @@ PSECT udata_acs
 
     ; ==== SERVO VARIABLES ===
         SERVO_TARGET:   DS 1    ; target PWM for the servo
+        PREV_SERVO_TARGET: DS   ;previous target PWM for the servo
     ; === I2C SCREEN ===
         CLEAR_DAT1:        ;Data to send to screen, octet 8 
                     DS 1
@@ -1509,6 +1510,9 @@ INITIALIZATION:
 
         MOVLW 0b00100010
         MOVWF SERVO_TARGET,0
+        MOVLW 0b00100010
+        MOVWF PREV_SERVO_TARGET,0
+
 
 ; ==== GLOBAL INTERRUPTS ====
     BSF INTCON,7,0
@@ -1813,8 +1817,15 @@ DECISION:
     return
 
 SERVO:
-    MOVFF SERVO_TARGET, CCPR1L
+    MOVFF SERVO_TARGET, WREG
+    CPFSEG PREV_SERVO_TARGET,0
+    goto update_servo
     return
+
+update_servo:
+    MOVFF SERVO_TARGET, CCPR1L
+    MOVFF SERVO_TARGET, PREV_SERVO_TARGET
+    return 
 
 TH_I2C:
     BTFSC D0_I2C,0,0
@@ -1999,4 +2010,3 @@ load_24:
         MOVWF DAT12,0
         RETURN
 end reset_vec
-
