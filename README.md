@@ -2,7 +2,7 @@
 <img src="/Images/logo_png.png" width="100" height="100">
 </div>
 
-# APRI0007: Major Project in Electronics: V-Luxe
+# APRI0007: Major project in electrical engineering: V-Luxe
 ## Team members
 * Julien Boniver
 * Guillaume Eyen
