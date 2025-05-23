@@ -23,7 +23,7 @@
 Demonstration videos validating the system’s functionality and complete project report are also included in this repository.  
 
 <div align="center">
-  <img src="/Images/final_structure.jpg" width="250" height="250">
+  <img src="/Images/Final_Structure.jpeg" width="250" height="250">
 </div>
 
 ## Project Report
