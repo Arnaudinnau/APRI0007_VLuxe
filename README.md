@@ -1,4 +1,5 @@
 # APRI0007 VLuxe
+![Logo](/Images/logo_png.png)
 This repository contains the [embedded software](https://github.com/Arnaudinnau/APRI0007_VLuxe/blob/main/V_Luxe_Code.asm) developed for the V-Luxe project. The software is written entirely in assembly language for the PIC18F4331 microcontroller.  
 Demonstration videos validating the system’s functionality and complete project report are also included in this repository.
 
@@ -20,3 +21,4 @@ This video shows the automatic closing of the blind in response to high outdoor 
 
 ### [Video 6 - Manual Control Mode](https://github.com/Arnaudinnau/APRI0007_VLuxe/blob/main/Videos/6.mp4)
 This video displays the manual control mode for both the window and the blind. In this mode, the user can operate both devices independently of environmental conditions.
+
