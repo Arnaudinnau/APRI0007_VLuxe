@@ -1,5 +1,5 @@
-# APRI0007 VLuxe
-<img src="/Images/logo_png.png" width="100" height="100"> This repository contains the [embedded software](https://github.com/Arnaudinnau/APRI0007_VLuxe/blob/main/V_Luxe_Code.asm) developed for the V-Luxe project. The software is written entirely in assembly language for the PIC18F4331 microcontroller.  
+# APRI0007 VLuxe <img src="/Images/logo_png.png" width="100" height="100"> 
+This repository contains the [embedded software](https://github.com/Arnaudinnau/APRI0007_VLuxe/blob/main/V_Luxe_Code.asm) developed for the V-Luxe project. The software is written entirely in assembly language for the PIC18F4331 microcontroller.  
 Demonstration videos validating the system’s functionality and complete project report are also included in this repository.
 
 ## Video descriptions
