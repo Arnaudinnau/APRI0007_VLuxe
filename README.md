@@ -27,7 +27,7 @@ Demonstration videos validating the system’s functionality and complete projec
 </div>
 
 ## Project Report
-The project report outlines the whole project components including management, electronics, mechanics, software and control system. Technicals choices that have been done during the whole project elaboration are justified. Some improvement paths are also developed at the end of this report.
+The [project report](https://github.com/Arnaudinnau/APRI0007_VLuxe/blob/286adeb9af3e9f415a3808174914f85adb91093a/Report_V_Luxe.pdf) outlines the whole project components including management, electronics, mechanics, software and control system. Technicals choices that have been done during the whole project elaboration are justified. Some improvement paths are also developed at the end of this report.
 
 ## Video descriptions
 ### [Video 1 - Automatic Window Opening (Humidity)](https://github.com/Arnaudinnau/APRI0007_VLuxe/blob/main/Videos/1.mp4)
