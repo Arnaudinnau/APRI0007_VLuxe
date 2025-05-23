@@ -3,8 +3,24 @@
 </div>
 
 # APRI0007: Major Project in Electronics: V-Luxe
-This repository contains the [embedded software](https://github.com/Arnaudinnau/APRI0007_VLuxe/blob/main/V_Luxe_Code.asm) developed for the V-Luxe project. The software is written entirely in assembly language for the PIC18F4331 microcontroller.  
-Demonstration videos validating the system’s functionality and complete project report are also included in this repository.
+## Team members
+* Julien Boniver
+* Guillaume Eyen
+* Victoria Filée
+* Matthieu Gillard
+* Arnaud Innaurato
+
+## Project Description
+  This project has been carried by a team of 5 students in the scope of their first year in MSc of Electrical Engineering. The goal of this whole year project is to develop from scratch a working electronics device with a software development in assembly on PIC microcontroller.  
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project aims to design and build a scale model of a tilting window equipped with an electronically controlled blind. The system will support two modes of operation: automatic and manual.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In automatic mode, the window and blind will open or close based on sensor data and user-defined threshold values. The goal is to automatically regulate parameters such as temperature or brightness to achieve the desired indoor conditions.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In manual mode, the user has full control over the window and blind, allowing them to be adjusted as desired. In this mode, the system will not respond to changes in the environment.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A control system has been implemented to have a blind which is not sensitive to external disturbances (in both modes).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The system will feature a control panel equipped with an LCD screen and buttons. This interface will allow the user to select the operating mode and customize settings as wanted.  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This repository contains the [embedded software](https://github.com/Arnaudinnau/APRI0007_VLuxe/blob/main/V_Luxe_Code.asm) developed for the V-Luxe project. The software is written entirely in assembly language for the PIC18F4331 microcontroller.   
+Demonstration videos validating the system’s functionality and complete project report are also included in this repository.  
 
 <div align="center">
   <img src="/Images/final_structure.jpg" width="250" height="250">
