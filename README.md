@@ -2,6 +2,9 @@
 This repository contains the [embedded software](https://github.com/Arnaudinnau/APRI0007_VLuxe/blob/main/V_Luxe_Code.asm) developed for the V-Luxe project. The software is written entirely in assembly language for the PIC18F4331 microcontroller.  
 Demonstration videos validating the system’s functionality and complete project report are also included in this repository.
 
+<img src="/Images/final_structure.jpg" width="200" height="200"> 
+
+
 ## Video descriptions
 ### [Video 1 - Automatic Window Opening (Humidity)](https://github.com/Arnaudinnau/APRI0007_VLuxe/blob/main/Videos/1.mp4)
 This video demonstrates the automatic opening of the window in response to increased indoor relative humidity.
