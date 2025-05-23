@@ -26,6 +26,8 @@ Demonstration videos validating the system’s functionality and complete projec
   <img src="/Images/final_structure.jpg" width="250" height="250">
 </div>
 
+## Project Report
+The project report outlines the whole project components including management, electronics, mechanics, software and control system. Technicals choices that have been done during the whole project elaboration are justified. Some improvement paths are also developed at the end of this report.
 
 ## Video descriptions
 ### [Video 1 - Automatic Window Opening (Humidity)](https://github.com/Arnaudinnau/APRI0007_VLuxe/blob/main/Videos/1.mp4)
