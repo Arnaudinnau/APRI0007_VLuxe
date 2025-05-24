@@ -4,7 +4,7 @@
 
 # APRI0007: Major project in electrical engineering: V-Luxe
 ## Team members
-* Julien Boniver
+* [Julien Boniver](https://github.com/julien439)
 * Guillaume Eyen
 * Victoria Filée
 * [Matthieu Gillard](https://github.com/MatthieuGillard)
