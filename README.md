@@ -7,8 +7,8 @@
 * Julien Boniver
 * Guillaume Eyen
 * Victoria Filée
-* Matthieu Gillard
-* Arnaud Innaurato
+* [Matthieu Gillard](https://github.com/MatthieuGillard)
+* [Arnaud Innaurato](https://github.com/Arnaudinnau)
 
 ## Project Description
   This project has been carried by a team of 5 students in the scope of their first year in MSc of Electrical Engineering. The goal of this whole year project is to develop from scratch a working electronics device with a software development in assembly on PIC microcontroller.  
